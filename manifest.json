@@ -1,0 +1,16 @@
+{
+  "name": "ReelVault",
+  "short_name": "ReelVault",
+  "description": "ReelVault online store",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#B13673",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
